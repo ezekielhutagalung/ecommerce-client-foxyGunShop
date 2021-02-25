@@ -25,7 +25,7 @@
         </div>
       </li>
     </ul>
-     <a class="navbar-brand" style="color: white; font-size: 25px margin-right:29px" id="nav-logo"><img src="./fox-logo-png-1658.png" style="width:100px; height:50px"></a>
+     <a class="navbar-brand offset-1" style="color: white; font-size: 25px margin-right:29px" id="nav-logo"><img src="./fox-logo-png-1658.png" style="width:100px; height:50px"></a>
   </div>
 </nav>
 </div>

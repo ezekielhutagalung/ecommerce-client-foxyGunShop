@@ -4,6 +4,7 @@
 <div class="container-fluid bg">
 <h1 class="head">WELCOME TO FOXY GUN SHOP</h1>
 <div>
+<br><br><br>
 <input type="radio" id="chk1" name="a1" style="display: none">
   <input type="radio" id="chk2" name="a1" style="display: none">
   <div class="box tai">

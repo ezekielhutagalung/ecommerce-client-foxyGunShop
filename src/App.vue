@@ -54,8 +54,8 @@ body{
 }
 
 .tai{
-  position: absolute;
-  height: 400px;
+  position: relative;
+  height: 100vh;
   width: 350px;
   left: calc(44% - 100px);
   top:calc(250% - 100px);
